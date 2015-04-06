@@ -10,8 +10,8 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1008"
-   height="276.23151"
+   width="1197.5272"
+   height="300"
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
@@ -20,7 +20,22 @@
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <defs
-     id="defs4" />
+     id="defs4">
+    <clipPath
+       id="clipPath3685"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         transform="matrix(0.88672915,0,0,0.97117952,860.69849,176.96821)"
+         d="m -140,429.50504 a 394.28571,360 0 1 1 -788.57141,0 394.28571,360 0 1 1 788.57141,0 z"
+         sodipodi:ry="360"
+         sodipodi:rx="394.28571"
+         sodipodi:cy="429.50504"
+         sodipodi:cx="-534.28571"
+         id="path3687"
+         style="color:#000000;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.80900002;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         sodipodi:type="arc" />
+    </clipPath>
+  </defs>
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -28,9 +43,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="608.12292"
-     inkscape:cy="209.51059"
+     inkscape:zoom="0.24748738"
+     inkscape:cx="278.0158"
+     inkscape:cy="147.99306"
      inkscape:document-units="px"
      inkscape:current-layer="g3806"
      showgrid="false"
@@ -51,7 +66,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -59,7 +74,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-57.142458,8.8782201)">
+     transform="translate(18.096053,37.404363)">
     <text
        xml:space="preserve"
        style="font-size:18px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
@@ -95,37 +110,52 @@
          id="flowPara3055" /></flowRoot>    <g
        id="g3806"
        transform="matrix(4.1507708,0,0,4.1507708,-180.04278,-842.36897)">
-      <text
-         sodipodi:linespacing="125%"
-         id="text2998"
-         y="248.049"
-         x="117.44415"
-         style="font-size:60.18035507px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;font-family:Courier New;-inkscape-font-specification:Courier New Bold"
-         xml:space="preserve"><tspan
-           style="font-size:63.64527512px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light"
-           id="tspan3004"
-           y="248.049"
-           x="117.44415"
-           sodipodi:role="line">PINGA</tspan></text>
-      <text
-         sodipodi:linespacing="125%"
-         id="text3008"
-         y="264.04938"
-         x="122.54099"
-         style="font-size:10.52071762px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
-         xml:space="preserve"><tspan
-           style="font-size:11.4771471px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
-           y="264.04938"
-           x="122.54099"
-           id="tspan3010"
-           sodipodi:role="line">Grupo de problemas inversos em geofísica  </tspan></text>
-      <image
-         y="200.17393"
-         x="56.902779"
-         id="image3056"
-         xlink:href="file:///home/leo/src/pinga-logo/pinga-logo.png"
-         height="66.868698"
-         width="61.535614" />
+      <g
+         id="g3065"
+         transform="translate(0.34416597,0)">
+        <g
+           id="g3047">
+          <text
+             sodipodi:linespacing="125%"
+             id="text2998"
+             y="245.44766"
+             x="116.62354"
+             style="font-size:68.80183411px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#333333;fill-opacity:1;stroke:none;font-family:Courier New;-inkscape-font-specification:Courier New Bold"
+             xml:space="preserve"><tspan
+               style="font-size:72.76314545px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#1a1a1a;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Light"
+               id="tspan3004"
+               y="245.44766"
+               x="116.62354"
+               sodipodi:role="line">PINGA</tspan></text>
+          <text
+             transform="scale(0.99831437,1.0016885)"
+             sodipodi:linespacing="125%"
+             id="text3008"
+             y="263.29568"
+             x="122.65975"
+             style="font-size:12.00764847px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#666666;fill-opacity:1;stroke:none;font-family:Yanone Kaffeesatz;-inkscape-font-specification:Yanone Kaffeesatz"
+             xml:space="preserve"><tspan
+               style="font-size:13.09925461px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#666666;fill-opacity:1;font-family:Ubuntu Condensed;-inkscape-font-specification:'Ubuntu Condensed,'"
+               y="263.29568"
+               x="122.65975"
+               id="tspan3010"
+               sodipodi:role="line">Grupo de problemas inversos em geofísica  </tspan></text>
+        </g>
+        <g
+           inkscape:label="Layer 1"
+           id="layer1-3"
+           transform="matrix(0.10325105,0,0,0.10325105,35.164059,168.76708)">
+          <image
+             y="244.09471"
+             x="36.931782"
+             id="image3682"
+             xlink:href="file:///home/leo/src/pinga-logo/pinga-logo-data-raster.png"
+             height="700"
+             width="700"
+             clip-path="url(#clipPath3685)"
+             transform="matrix(1.0010736,0,0,1.0010736,-0.0400545,-1.0132197)" />
+        </g>
+      </g>
     </g>
   </g>
 </svg>
